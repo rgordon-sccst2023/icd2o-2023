@@ -29,6 +29,12 @@ body {
         padding: 0px;
     }
 
+    /* Pad blockquotes a bit */
+    
+    .markdown-preview-view blockquote {
+        padding-left: 20px;
+    }
+    
     /* No icon (arrow coming out box) when linking to off-site content */
     .external-link {
         background-image: none !important;
