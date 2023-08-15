@@ -16,3 +16,6 @@ let z = x * y
 print(z)
 ```
 
+![Screenshot 2023-08-15 at 5.41.36 PM.png](/img/user/Screenshot%202023-08-15%20at%205.41.36%20PM.png)
+
+![Screenshot 2023-08-15 at 5.55.22 PM.png](/img/user/Attachments/Screenshot%202023-08-15%20at%205.55.22%20PM.png)
